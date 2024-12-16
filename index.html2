@@ -46,7 +46,7 @@
 
     /* Image Styles */
     .flag, .everest {
-      width: 800px;
+      width: 600px;
       height: auto;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
     }
